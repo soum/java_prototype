@@ -1,0 +1,16 @@
+
+public class accountaction {
+
+	public static void main(String[] args) {
+		
+		account WorkingAccount = new account();
+		int[] x = {0, 200, 400};
+		WorkingAccount.setRecord("soumya", x, 30);
+		
+		sort newSort = new sort();
+		
+		//System.out.print(WorkingAccount.getRecord());
+		System.out.print(newSort.sortArray());
+	}
+
+}

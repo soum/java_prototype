@@ -1,0 +1,7 @@
+
+public class searchNumber {
+	int []sortedArray;
+	public int []findNumber(){
+		return this;
+	}
+}

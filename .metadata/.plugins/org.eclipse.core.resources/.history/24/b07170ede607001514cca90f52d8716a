@@ -1,0 +1,11 @@
+
+public class searchNumber {
+	private int []sortedArray;
+	public int []findNumber(int []sortedArray, int find){
+		this.sortedArray = sortedArray;
+		if(){
+			
+		}
+		return sortedArray;
+	}
+}
